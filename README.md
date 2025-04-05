@@ -119,7 +119,6 @@ class Calculator:
             print("- " + operation)
 
 
-# Test the calculator
 def main():
     calc = Calculator(10)
     
