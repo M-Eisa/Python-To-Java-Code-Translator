@@ -1,4 +1,4 @@
-# Python to Java Translator
+# Python to Java Code Translator
 
 A tool that translates Python code to equivalent Java code using Abstract Syntax Tree (AST) parsing.
 
